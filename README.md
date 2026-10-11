@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, bem-vindo ao meu perfil! 👋
 
-<!--
-**Gustazzr/Gustazzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de programação com foco na criação de soluções práticas e gerenciamento de dados. Atualmente, estou direcionando meus estudos para o desenvolvimento Back-end.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python, CSS
+- **Banco de Dados:** MySQL
+- **Ferramentas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Meus projetos em destaque
+- **[Sistema de Estoque] (https://github.com/Gustazzr/Projeto-estoque.git): ** Um projeto focado em lógica estrutural e integração segura com banco de dados usando Python e MySQL.
+- *(Em breve: novos projetos unindo Python, Banco de Dados e Web!)*
+
+## 📫 Como entrar em contato comigo
+- **Email:** gustavo.gcfcarvalho@gmail.com
+- **LinkedIn:** www.linkedin.com/in/gustavo-defrança
+
